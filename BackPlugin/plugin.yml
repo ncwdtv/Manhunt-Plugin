@@ -1,0 +1,8 @@
+name: BackPlugin
+main: me.ncwd.BackPlugin.Plugin
+version: 1.0
+api-version: 1.16
+commands:
+  back:
+    description: Teleports player to last teleported location
+    usage: /<command>

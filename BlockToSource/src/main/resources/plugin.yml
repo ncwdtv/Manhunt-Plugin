@@ -1,0 +1,7 @@
+name: BlockToSource
+version: ${project.version}
+main: me.ncwd.blocktosource.BlockToSource
+api-version: 1.18
+authors: [ ncwdtv ]
+description: Broken blocks will turn into water sourceblocks
+website: www.twitch.tv/ncwdtv

@@ -1,0 +1,7 @@
+name: XpBank
+version: 1.0
+main: me.ncwd.expbank.Plugin
+author: ncwd
+commands:
+  xpbank:
+    usage: /xpbank [action] [amount]

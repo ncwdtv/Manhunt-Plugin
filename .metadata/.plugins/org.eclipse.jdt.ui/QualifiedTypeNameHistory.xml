@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.bukkit.plugin.java.JavaPlugin"/>
+    <fullyQualifiedTypeName name="me.nick.HealthDeteriorate.Main"/>
+    <fullyQualifiedTypeName name="me.nick.HealthDeteriorate.commands.HealthDeteriorateCommand"/>
+    <fullyQualifiedTypeName name="me.nick.HealthDeteriorate.listeners.Listeners"/>
+    <fullyQualifiedTypeName name="org.bukkit.attribute.Attribute"/>
+    <fullyQualifiedTypeName name="org.bukkit.Location"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.RecipeChoice.ExactChoice"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.RecipeChoice.MaterialChoice"/>
+    <fullyQualifiedTypeName name="org.bukkit.configuration.file.YamlConfiguration"/>
+    <fullyQualifiedTypeName name="me.ncwd.SetHomePlugin.Plugin"/>
+    <fullyQualifiedTypeName name="me.ncwd.BackPlugin.events.DeathAndTpEvents"/>
+    <fullyQualifiedTypeName name="me.ncwd.BackPlugin.commands.BackPluginCommands"/>
+    <fullyQualifiedTypeName name="me.ncwd.enchantmentsplus.EnchantmentsPlusPlugin"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.bukkit.GameMode"/>
+    <fullyQualifiedTypeName name="org.bukkit.block.Container"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_16_R3.Block"/>
+    <fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+    <fullyQualifiedTypeName name="org.bukkit.block.Block"/>
+    <fullyQualifiedTypeName name="org.bukkit.NamespacedKey"/>
+    <fullyQualifiedTypeName name="net.minecraft.server.v1_16_R3.FurnaceRecipe"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.FurnaceRecipe"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.CampfireRecipe"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerJoinEvent"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.ScoreboardManager"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.Scoreboard"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.Objective"/>
+    <fullyQualifiedTypeName name="org.bukkit.scoreboard.DisplaySlot"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerQuitEvent"/>
+    <fullyQualifiedTypeName name="net.md_5.bungee.api.ChatColor"/>
+    <fullyQualifiedTypeName name="org.bukkit.Material"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.bukkit.enchantments.Enchantment"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.ItemFlag"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
+    <fullyQualifiedTypeName name="org.bukkit.event.block.Action"/>
+    <fullyQualifiedTypeName name="org.bukkit.inventory.ItemStack"/>
+    <fullyQualifiedTypeName name="org.bukkit.command.Command"/>
+    <fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+</qualifiedTypeNameHistroy>

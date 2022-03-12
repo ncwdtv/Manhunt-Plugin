@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;me.ncwd.SmithingTableUpgrades&apos; to &apos;me.ncwd.SmithingTableUpgradesPlugin&apos;&#x0D;&#x0A;- Original project: &apos;SmithingTableUpgradesPlugin&apos;&#x0D;&#x0A;- Original element: &apos;SmithingTableUpgradesPlugin/src/me.ncwd.SmithingTableUpgrades&apos;&#x0D;&#x0A;- Renamed element: &apos;SmithingTableUpgradesPlugin/src/me.ncwd.SmithingTableUpgradesPlugin&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;me.ncwd.SmithingTableUpgrades&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;me.ncwd.SmithingTableUpgrades" name="me.ncwd.SmithingTableUpgradesPlugin" qualified="false" references="true" stamp="1602070801157" textual="false" version="1.0"/>
+</session>

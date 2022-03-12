@@ -1,0 +1,17 @@
+name: Tag
+version: 1.0
+main: me.ncwd.tag.Tag
+api-version: 1.18
+authors: [ ncwdtv ]
+description: one person is it and has glowing effect
+website: www.twitch.tv/ncwdtv
+commands:
+  starttag:
+    description: Chooses a random player to be it and starts tag.
+    usage: /<command>
+  stoptag:
+    description: stops the game of tag.
+    usage: /<command>
+  whoisit:
+    description: sends sender a chat of who is currently it.
+    usage: /<command>

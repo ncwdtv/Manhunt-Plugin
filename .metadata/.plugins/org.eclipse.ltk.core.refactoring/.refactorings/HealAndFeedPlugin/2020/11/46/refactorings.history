@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;HealAndFeedPlugin&apos;&#x0D;&#x0A;- Original project: &apos;HealAndFeedPlugin&apos;&#x0D;&#x0A;- Original element: &apos;HealAndFeedPlugin/src/me.ncwd.blockbreakitemgoneplugin.events&apos;" description="Delete element" element1="/src&lt;me.ncwd.blockbreakitemgoneplugin.events" element2="/src&lt;me.ncwd.blockbreakitemgoneplugin" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1604798499779" subPackages="false" version="1.0"/>
+</session>

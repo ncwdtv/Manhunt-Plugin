@@ -1,0 +1,12 @@
+name: MultiplyDrops
+version: 1.0-SNAPSHOT
+main: me.ncwd.multiplydrops.Multiplydrops
+api-version: 1.18
+authors: [ ncwd ]
+description: This will make every drop multiply
+website: www.twitch.tv/ncwdtv
+commands:
+  changedroprate:
+    description: changes drop rate
+    usage: /<command> <int>
+    aliases: [cdr,droprate]

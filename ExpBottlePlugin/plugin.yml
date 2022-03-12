@@ -1,0 +1,4 @@
+main: me.ncwd.expbottleplugin.Plugin
+version: 1.0
+author: ncwd
+name: ExpBottlePlugin

@@ -1,0 +1,4 @@
+main: me.ncwd.SeaLevelRisesPlugin.SeaLevelPlugin
+version: 1.0
+author: ncwd
+name: SeaLevelRisesPlugin

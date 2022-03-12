@@ -1,0 +1,5 @@
+name: RottenFleshToLeather
+main: me.ncwd.RottenFleshToLeather.Plugin
+version: 1.0
+api-version: 1.16
+description: Lets you smelt rotten flesh to leather in furnace, smoker, and campfire

@@ -1,0 +1,23 @@
+name: InventoryScramble
+version: 1.1
+main: me.ncwd.inventoryrearanges.InventoryScramble
+api-version: 1.18
+authors: [ ncwd ]
+description: this plugin will rearange your inventory every interval minutes
+website: www.twitch.tv/ncwdtv
+commands:
+  changeinterval:
+    description: Changes the interval between the action
+    usage: /<command> <interval>
+    aliases: changeseconds
+  startIS:
+    description: Starts the plugin timer
+    usage: /<command>
+    aliases: startinventoryscramble
+  getinterval:
+    description: returns the interval to the player
+    usage: /<command>
+  stopIS:
+    description: Stops the plugin timer
+    usage: /<command>
+    aliases: stopinventoryscramble

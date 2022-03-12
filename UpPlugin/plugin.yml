@@ -1,0 +1,8 @@
+name: UpPlugin
+main: me.ncwd.UpPlugin.UpPlugin
+version: 1.0
+api-version: 1.16
+commands:
+  up:
+    description: teleports the player up a given amount of blocks
+    usage: /<command>

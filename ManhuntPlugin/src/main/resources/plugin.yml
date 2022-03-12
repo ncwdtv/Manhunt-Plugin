@@ -1,0 +1,32 @@
+name: Manhunt 1.18
+version: 1.1
+main: me.ncwd.manhunt.Manhunt
+api-version: 1.18
+authors: [ ncwdtv ]
+description: Minecraft Manhunt like in Dream's videos
+website: www.twitch.tv/ncwdtv
+commands:
+  hunter:
+    description: adds player to hunters
+    usage: /<command> <player>
+    aliases: addhunter
+  runner:
+    description: adds player to runners
+    usage: /<command> <player>
+    aliases: addrunner
+  clearhuntersandrunners:
+    description: clears the runners and hunters
+    usage: /<command> <player>
+    aliases: chr
+  gethuntersandrunners:
+    description: prints the hunters and runners
+    usage: /<command>
+    aliases: [gethandr,ghr]
+  getcantrack:
+    description: prints if you can track in other dimensions
+    usage: /<command>
+    aliases: gct
+  trackindimensions:
+    description: sets if you can track runner in other dimensions
+    usage: /<command> <true or false>
+    aliases: tid

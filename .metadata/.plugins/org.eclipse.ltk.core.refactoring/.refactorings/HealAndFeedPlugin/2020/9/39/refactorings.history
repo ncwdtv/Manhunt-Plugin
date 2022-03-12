@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HealAndFeedPlugin/config.yml&apos; to &apos;plugin.yml&apos;" description="Rename resource &apos;config.yml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="config.yml" name="plugin.yml" stamp="1600906009248" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+name: SmithingTableUpgrades
+main: me.ncwd.SmithingTableUpgradesPlugin.Plugin
+version: 1.0
+api-version: 1.16
+description: Lets you upgrade armor and tools in smithing table. Every tool is now upgradable!

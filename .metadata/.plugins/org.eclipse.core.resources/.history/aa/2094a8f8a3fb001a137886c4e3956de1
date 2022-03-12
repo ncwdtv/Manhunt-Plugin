@@ -1,0 +1,19 @@
+package me.ncwd.HealAndFeed;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+import me.ncwd.HealAndFeed.commands.HealAndFeedCommands;
+
+public class Plugin extends JavaPlugin{
+	@Override
+	public void onEnable() 
+	{
+		HealAndFeedCommands commands = new HealAndFeedCommands();
+		getCommand("heal").setExecutor(commands);
+		getCommand("feed").setExecutor(commands);
+	}
+	public void onDisable()
+	{
+		
+	}
+}
