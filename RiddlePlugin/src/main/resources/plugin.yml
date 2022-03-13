@@ -1,0 +1,7 @@
+name: RiddlesPlugin
+version: ${project.version}
+main: me.ncwd.riddlesplugin.RiddlesPlugin
+api-version: 1.18
+authors: [ ncwdtv ]
+description: This plugin gives the user a new riddle to solve each interval.
+website: www.twitch.tv/ncwdtv
