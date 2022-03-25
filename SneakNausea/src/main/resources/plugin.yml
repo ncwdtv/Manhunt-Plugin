@@ -1,0 +1,7 @@
+name: SneakNausea
+version: ${project.version}
+main: me.ncwd.sneaknausea.SneakNausea
+api-version: 1.18
+authors: [ ncwdtv ]
+description: Minecraft but every 10 sneaks you get a level of nausea
+website: www.twitch.tv/ncwdtv

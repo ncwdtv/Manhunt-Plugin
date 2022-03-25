@@ -1,0 +1,7 @@
+name: DeathSwap
+version: @version@
+main: me.ncwd.deathswap.DeathSwap
+api-version: 1.18
+authors: [ ncwdtv ]
+description: Minecraft Death Swap
+website: www.twitch.tv/ncwdtv

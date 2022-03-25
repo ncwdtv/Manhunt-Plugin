@@ -13,7 +13,6 @@ public class Events implements Listener {
     @EventHandler
     public void BreakBlock(BlockBreakEvent e){
         e.setCancelled(true);
-        Bukkit.broadcastMessage("Broken");
         Block b = e.getBlock();
         b.setType(Material.WATER);
     }

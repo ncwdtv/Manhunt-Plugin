@@ -47,7 +47,7 @@ public class Commands implements CommandExecutor {
             Bukkit.broadcastMessage("Hunters: " + h);
             Bukkit.broadcastMessage("Runners: " + r);
         }
-        if(cmd.getName().equalsIgnoreCase("trackindimensions")){
+        if(cmd.getName().equalsIgnoreCase(" ")){
             if( ((args[0].equalsIgnoreCase("true"))) || ((args[0].equalsIgnoreCase("false")))){
                 if(args[0].equalsIgnoreCase("true")){
                     Manhunt.canTrack = true;
